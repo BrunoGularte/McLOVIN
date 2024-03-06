@@ -16,25 +16,6 @@ body {
   height: 230px;
   width: auto;
 }
-@keyframes shakeVertical {
-  0%,
-  100% {
-    transform: translateY(0);
-  }
-  10%,
-  30%,
-  50%,
-  70%,
-  90% {
-    transform: translateY(-10px);
-  }
-  20%,
-  40%,
-  60%,
-  80% {
-    transform: translateY(10px);
-  }
-}
 .box {
   width: 250px;
   height: 250px;
