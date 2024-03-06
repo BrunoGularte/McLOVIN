@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+#IAMMcLOVIN {
+  height: auto;
+  width: 500px;
+}
+.btn a {
+  color: aliceblue;
+  text-decoration: none;
+}
